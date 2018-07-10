@@ -32,3 +32,5 @@ $('.slick-slider').slick({
             }
         ]
     });
+
+    console.log('working');
